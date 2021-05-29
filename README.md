@@ -9,7 +9,7 @@
 | Command  | Alias  | Description  | 
 |:-----------:|:-----------:|:------------:|
 |?ping     |-      |pings you and shows uptime |
-|?pingme   |-      |the Bot will ping you  |
+|?pingme   |-      |The Bot will ping you  |
 |?bans      |-      |shows the amount of bans for the channel #revedtv today  |
 |?timeouts |?tos  |shows the amount of Timeouts for the channel #revedtv today, as well as the total timeout lenght |
 |?subs  |-  |shows the amount of subs for the channel #revedtv today, specified in the different sub Plans| 

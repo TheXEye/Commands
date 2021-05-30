@@ -7,7 +7,7 @@
 ## Commands for the Bot
 
 | Command  | Alias  | Description  | 
-|:--------------:|:--------------:|:------------:|
+|:-----------------:|:-----------------:|:---------------:|
 |?ping     |-      |pings you and shows uptime |
 |?pingme   |-      |The Bot will ping you  |
 |?bans      |-      |shows the amount of bans for the channel #revedtv today  |

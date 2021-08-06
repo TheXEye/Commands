@@ -10,7 +10,7 @@
 |:--------------------:|:--------------------:|:---------------:|
 |?ping     |-      |Pings you and shows uptime |
 |?pingme   |-      |The Bot will ping you  |
-|?bans      |-      |Shows the amount of bans for the channel #revedtv today  |
+|?bans      |-      |Shows the amount of bans for the channel today  |
 |?timeouts |?tos  |Shows the amount of Timeouts for the channel today, as well as the total timeout lenght |
 |?subs  |-  |Shows the amount of subs for the channel today, specified in the different Sub-Plans| 
 |?subgifts    |?gifts  |Shows the amount of subgifts for the channel today |
